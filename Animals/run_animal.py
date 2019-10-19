@@ -20,3 +20,5 @@ print(BrowBrowHungry)
 
 HowFastBrowBrow = browbrow.runs()
 print(HowFastBrowBrow)
+
+print(browbrow.age)
